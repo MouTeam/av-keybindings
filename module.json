@@ -1,0 +1,49 @@
+{
+    "id": "av-keybindings",
+    "title": "A/V Keybindings",
+    "description": "A small module for FoundryVTT that add keybinding for Audio/Video",
+    "version": "0.1.0",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "11.307",
+        "maximum": "11"
+    },
+    "relationships": {
+        "systems": [],
+        "requires": []
+    },
+    "authors": [
+        {
+            "name": "AlexandrePavy",
+            "url": "https://github.com/AlexandrePavy"
+        }
+    ],
+    "esmodules": [
+        "av-keybindings.mjs"
+    ],
+    "styles": [],
+    "packs": [
+        {
+            "name": "macros",
+            "label": "A/V Keybindings",
+            "module": "av-keybindings",
+            "path": "packs/macros.db",
+            "type": "Macro"
+        }
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        },
+        {
+            "lang": "fr",
+            "name": "French",
+            "path": "lang/fr.json"
+        }
+    ],
+    "url": "https://github.com/MouTeam/av-keybindings",
+    "manifest": "https://raw.githubusercontent.com/MouTeam/av-keybindings/main/module.json",
+    "download": "https://github.com/MouTeam/av-keybindings/archive/refs/tags/v0.1.0.zip"
+}

@@ -1,0 +1,6 @@
+{
+  "KEYBINDINGS.ToggleAudio": "Toggle your audio",
+  "KEYBINDINGS.ToggleVideo": "Toggle your video",
+  "KEYBINDINGS.MutePeers": "Toggle mute/unmute others audio",
+  "KEYBINDINGS.DisableVideo": "Toggle mute/unmute others video"
+}
